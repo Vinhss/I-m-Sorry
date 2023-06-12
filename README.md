@@ -1,8 +1,6 @@
-# Im Sorry
-<!DOCTYPE html>
+
 <html>
 <head> 
-<title>Gửi lời yêu thương</title>
 <link rel="stylesheet" href="codetotinh.css" />
 </head>
 <body bgcolor="#000000">
@@ -10,7 +8,7 @@
 <img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love1.gif" width="300" height="25">
 </center>
 <h1 align="center">
-<span style="background: url(&quot;https://timoday.edu.vn/d9f50c755f7e4d8626a518843017a8bc_44837304.partner.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.3em black, 0pt 2pt 0.3em pink;"><b>Xin lỗi zợ mà (-__-;)</b></span>
+<span style="background: url(&quot;https://timoday.edu.vn/d9f50c755f7e4d8626a518843017a8bc_44837304.partner.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.3em black, 0pt 2pt 0.3em blue;"><b>Xin lỗi zợ mà (-__-;)</b></span>
 </h1>
 <center>
 <img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love2.gif" width="300" height="25">
