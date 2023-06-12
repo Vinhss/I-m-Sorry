@@ -1,6 +1,6 @@
 
 <html>
-<head> 
+<head>  
 <link rel="stylesheet" href="codetotinh.css" />
 </head>
 <body bgcolor="#000000">
