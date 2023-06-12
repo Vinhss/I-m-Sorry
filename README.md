@@ -1,48 +1,33 @@
-# Im Sorry
-
-<meta http-equiv="content-type" content="text/html;charset=UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
- <title>CHẠM VÀO ĐÂY</title>
- <!-- Tiêu đề của trang -->
-  <meta name="description" content="Đoán xem có điều gì bất ngờ tại đây?">
-  <!-- Description ngắn -->
-  <meta property="og:image" content="https://minhchuit.net/images/cham-vao-day.png">
-  <meta property="og:title" content="CHẠM VÀO ĐÂY">
-  <!-- Tiêu đề của trang -->
-  <meta property="og:type" content="website">
-  <meta name="author" content="NGUYEN MINH CHU">
-  <link rel="stylesheet" href="https://minhchuit.net/css/valentine.css" type="text/css">
-  <link rel="stylesheet" href="https://minhchuit.net/css/fontawesome-free-5.12.1-web/css/all.css" type="text/css">
-  <script language="javascript" src="https://minhchuit.net/js/jquery-3.3.1.min.js"></script>
-  <script>
-      $(document).ready(function(){
-       $('.title').click(function(){
-         $('.container').addClass('open');
-       });
-       $('.close').click(function(){
-         $('.container').removeClass('open');
-       });
-     });
-  </script>
-
-
-<div class="bgoverlay">
- <div class="container">
-   <span class="ico">
-     <span class="ico2"></span>
-     <span class="title">Chạm Vào<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đây</span>
-   </span>
- <div class="endtext">
-   <span class="close" title="Restart"><i class="fa fa-times"></i></span> 
-   <!-- Thay câu bạn muốn vào đây -->
-   <h1>xin lỗi zợ mà</h1>
-   <h2>Tha cho ck nha (-__-;) <i class="fas fa-heart"></i></h2>
-   <div id="all">
-     <button class="a" onclick="alert('Cái này thêm cho vui chứ không có bấm được.Vui lòng bấm nút Đồng Ý màu xanh')">Không Đồng Ý</button>
-     <!-- Thay câu bạn muốn vào trong phần ngoặc đơn -->
-     <button class="b"><a href="https://m.me/VinhPham">Đồng Ý</a></button>
-     <!-- Thay id facebook của bạn vào trong ngoặc kép sau phần m.me/ -->
-   </div>
- </div>
-</div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gửi lời yêu thương</title>
+<link rel="stylesheet" href="codetotinh.css" />
+</head>
+<body bgcolor="#000000">
+<center>
+<img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love1.gif" width="300" height="25">
+</center>
+<h1 align="center">
+<span style="background: url(&quot;https://timoday.edu.vn/d9f50c755f7e4d8626a518843017a8bc_44837304.partner.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.3em LightYellow, 0pt 2pt 0.3em LightYellow;"><b>Xin lỗi zợ mà (-__-;)</b></span>
+</h1>
+<center>
+<img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love2.gif" width="300" height="25">
+</center>
+<center>
+<p><img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love3.gif" width="460" height="433"></p>
+<img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love4.gif" alt="" width="220" border="0">
+</center>
+<center>
+<img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love4.gif" width="700" height="8"><br>
+<font style="font-size: 11pt">
+<font color="#FF0000" face="Comic Sans MS"></font>
+<font color="white" face="Comic Sans MS"></font>
+<marquee behavior="scroll" direction="left" scrollamount="2" scrolldelay="20" width="50%"><font face="Tahoma" size="2" color="#ffffff"></font></marquee><br>
+<img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love5.gif" width="700" height="8">
+</font>
+</center>
+<div style="left: 0pt; position: fixed; top: 0pt; z-index: 0;">
+<!--<embed align="center" height="900px" width="2000px" src="images/chuot.swf" wmode="transparent"></embed>--></div>
+</body>
+</html>
