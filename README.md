@@ -22,7 +22,7 @@
 <font style="font-size: 11pt">
 <font color="#FF0000" face="Comic Sans MS"></font>
 <font color="white" face="Comic Sans MS"></font>
-<marquee behavior="scroll" direction="left" scrollamount="2" scrolldelay="20" width="50%"><font face="Tahoma" size="2" color="#ffffff"></font></marquee><br>
+<marquee behavior="scroll" direction="left" scrollamount="2" scrolldelay="20" width="50%"><font face="Tahoma" size="2" color="#ffffff">Đừng dỗi nx nhaaaaa</font></marquee><br>
 <img src="https://timoday.edu.vn/wp-content/uploads/2020/06/love5.gif" width="700" height="8">
 </font>
 </center>
